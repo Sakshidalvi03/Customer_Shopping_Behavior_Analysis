@@ -68,7 +68,7 @@ Performed business-driven analysis to extract key insights:
 
 ## 📊 Dashboard (Power BI)  
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot]("https://github.com/Sakshidalvi03/Customer_Shopping_Behavior_Analysis/blob/main/CustomerShopping.png")
+![Dashboard Screenshot]("CustomerShopping.png")
 
 Built an interactive dashboard to visualize:
 - Sales performance  
