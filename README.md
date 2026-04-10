@@ -68,7 +68,7 @@ Performed business-driven analysis to extract key insights:
 
 ## 📊 Dashboard (Power BI)  
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot]("CustomerShopping")
+![Dashboard Screenshot]("CustomerShopping.png")
 
 Built an interactive dashboard to visualize:
 - Sales performance  
