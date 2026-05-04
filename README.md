@@ -49,22 +49,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ---
 
-## 🗄️ Data Analysis (SQL)  
 
-Performed business-driven analysis to extract key insights:
 
-- 📌 Revenue comparison by gender  
-- 📌 Identification of high-spending discount users  
-- 📌 Top 5 products based on customer ratings  
-- 📌 Impact of shipping type on purchase amount  
-- 📌 Subscriber vs Non-subscriber analysis  
-- 📌 Discount-driven product identification  
-- 📌 Customer segmentation (New, Returning, Loyal)  
-- 📌 Top 3 products in each category  
-- 📌 Repeat purchase vs subscription behavior  
-- 📌 Revenue contribution by age group  
 
----
 
 ## 📊 Dashboard (Power BI)  
 ## 🖼 Dashboard Preview
